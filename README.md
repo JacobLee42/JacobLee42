@@ -1,5 +1,5 @@
 ### Hello, my name is Jacob Lee 👋
-### Software Developer based in sunny Queensland!
+### Web Developer based in sunny Queensland!
 
 
 - 🔭 I’m currently working on completing the Advanced Diploma of IT (full stack web development) through AIT and Coder Academy. Awaiting enrollment to uniSC for the Masters in Business Administration (commence July 2024)
