@@ -2,7 +2,7 @@
 ### Software Developer based in sunny Queensland!
 
 
-- 🔭 I’m currently working on completing the Diploma of IT(full stack web development) through AIT and Coder Academy. Awaiting enrollment to uniSC for the Masters in Business Administration (commence July 2024)
+- 🔭 I’m currently working on completing the Advanced Diploma of IT(full stack web development) through AIT and Coder Academy. Awaiting enrollment to uniSC for the Masters in Business Administration (commence July 2024)
 - 🌱 I’m currently learning JavaScript & Node.js
 - 📫 How to reach me: jacob.lee80@outlook.com
 - 👀 Looking forward to new opportunities in 2024
