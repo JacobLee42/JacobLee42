@@ -1,5 +1,5 @@
 ### Hello, my name is Jacob Lee 👋
-
+## Software Developer based in sunny Queensland!
 <!--
 **JacobLee42/JacobLee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
