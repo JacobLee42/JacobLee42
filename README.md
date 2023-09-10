@@ -1,18 +1,18 @@
 ### Hello, my name is Jacob Lee 👋
-## Software Developer based in sunny Queensland!
+### Software Developer based in sunny Queensland!
 <!--
 **JacobLee42/JacobLee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on completing the Diploma of IT(full stack web development) through AIT and Coder Academy. Awaiting enrollment to uniSC for the Masters in Business Administration (commence July 2024)
+- 🌱 I’m currently learning JavaScript & Node.js
+- 📫 How to reach me: jacob.lee80@outlook.com
+- 👀 Looking forward to new opportunities in 2024
+- 👮‍♂️ Former constable of police, Queensland Police Service
+- 👨‍🎓 Former student, Diploma's in Management(hospitality) & Community Policing
+
+
 -->
 Languages and Tools:
 - **Front-end:** <img alt="HTML5" src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
